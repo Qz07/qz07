@@ -12,9 +12,9 @@
 </p>
 
 <!-- Credit to 1999AZZAR -->
-<div align="center">
+<!-- <div align="center">
     <img src="/misc/grid-snake.svg" alt="snake">
-</div>
+</div> -->
 
 <p align="left">
 <a href="q7zheng@ucsd.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="sarazhengqz@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/qirui-zheng-b47235263/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
